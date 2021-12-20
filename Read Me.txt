@@ -1,0 +1,6 @@
+
+1 This project scraps data from Amazon website 
+2 It takes The product name, its price, and time and stores them in a CSV file
+3 I Have set while loop repetition to 10 for my testing you can incease it to whatever you like
+4 it does that after an interval of 5 sec
+5 There is a souce Code text file and a python file
